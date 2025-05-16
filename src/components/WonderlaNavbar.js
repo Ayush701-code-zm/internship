@@ -22,7 +22,7 @@ export default function WonderlaNavbar() {
 
   return (
     <div className="px-12 py-6 mx-auto">
-      <div className="bg-white w-full rounded-xl px-8 py-4 border shadow-sm relative">
+      <div className="bg-white w-full rounded-xl px-7 py-4 border shadow-sm relative">
         <div className="flex justify-between items-center">
           {/* Logo */}
           <div className="flex-shrink-0 w-1/4">
